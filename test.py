@@ -5,7 +5,7 @@
 # 2) On the commented line(s) below, put your initials
 
 # Ben Schwabe
-# Meghan P
+# MP
 #
 #
 #
