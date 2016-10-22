@@ -4,7 +4,7 @@
 # 1) Fork and store this file somewhere on your local machine.
 # 2) On the commented line(s) below, put your initials
 
-# Ben Schwabe
+# BS
 # MP
 #
 #
